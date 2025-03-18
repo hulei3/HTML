@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 1.png -->
+    <img src="./1.png" >
+    <!-- 2.png -->
+     <img src="./images/2.gif" >
+     <!-- tree.png -->
+      <img src="../tree.png" >
+</body>
+</html>
